@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GIT\\Code\\Broken\\Broken\\Broken.csproj": {}
+    "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GITCLONE\\Praca_domowa_02_1st_task\\Code\\Broken\\Broken\\Broken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GIT\\Code\\Broken\\Broken\\Broken.csproj": {
+    "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GITCLONE\\Praca_domowa_02_1st_task\\Code\\Broken\\Broken\\Broken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GIT\\Code\\Broken\\Broken\\Broken.csproj",
+        "projectUniqueName": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GITCLONE\\Praca_domowa_02_1st_task\\Code\\Broken\\Broken\\Broken.csproj",
         "projectName": "Broken",
-        "projectPath": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GIT\\Code\\Broken\\Broken\\Broken.csproj",
+        "projectPath": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GITCLONE\\Praca_domowa_02_1st_task\\Code\\Broken\\Broken\\Broken.csproj",
         "packagesPath": "C:\\Users\\vika1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GIT\\Code\\Broken\\Broken\\obj\\",
+        "outputPath": "C:\\Users\\vika1\\OneDrive\\Desktop\\Task1\\GITCLONE\\Praca_domowa_02_1st_task\\Code\\Broken\\Broken\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

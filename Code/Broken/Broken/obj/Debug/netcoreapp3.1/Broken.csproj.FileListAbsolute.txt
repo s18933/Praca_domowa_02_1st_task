@@ -2,3 +2,16 @@ C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreap
 C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.csproj.CoreCompileInputs.cache
 C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfoInputs.cache
 C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfo.cs
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.exe
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.deps.json
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.runtimeconfig.json
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.runtimeconfig.dev.json
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.dll
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\bin\Debug\netcoreapp3.1\Broken.pdb
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.csprojAssemblyReference.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.csproj.CoreCompileInputs.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfoInputs.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfo.cs
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.dll
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.pdb
+C:\Users\vika1\OneDrive\Desktop\Task1\GITCLONE\Praca_domowa_02_1st_task\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.genruntimeconfig.cache

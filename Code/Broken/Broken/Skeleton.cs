@@ -7,7 +7,7 @@ namespace Broken
     class Skeleton
     {
         public string Name { get; set; }
-        public string Bones { get; set; }
+        public int Bones { get; set; }
         public int Age { get; set; }
 
         public void IsAHuman() {

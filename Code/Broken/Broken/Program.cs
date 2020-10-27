@@ -10,7 +10,7 @@ namespace Broken
 
             skeleton.Name = "Rozitta";
             skeleton.Age = 60;
-            skeleton.Bones = "Two hundred and seven";
+            skeleton.Bones = 207;
 
             skeleton.IsAHuman();
         }

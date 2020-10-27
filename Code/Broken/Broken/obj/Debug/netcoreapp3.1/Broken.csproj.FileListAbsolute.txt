@@ -1,0 +1,4 @@
+C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.csprojAssemblyReference.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.csproj.CoreCompileInputs.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfoInputs.cache
+C:\Users\vika1\OneDrive\Desktop\Task1\GIT\Code\Broken\Broken\obj\Debug\netcoreapp3.1\Broken.AssemblyInfo.cs
